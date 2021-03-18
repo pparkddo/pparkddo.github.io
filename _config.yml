@@ -1,27 +1,30 @@
 # Dependencies
-markdown:         kramdown 
-highlighter:      rouge
+markdown: kramdown 
+highlighter: rouge
 
 # Permalinks
-permalink:        pretty
+permalink: pretty
 
 # Setup
-title:            Solved
-tagline:          Solve Problems
-description:      문제 해결 방법과 이유를 정리한 <a href="http://github.com/pparkddo" target="_blank">pparkddo</a> 의 기술 블로그
-url:              https://pparkddo.github.io
-baseurl:          
+title: Solved
+tagline: Solve Problems
+description: 문제 해결 방법과 이유를 정리한 <a href="http://github.com/pparkddo" target="_blank">pparkddo</a> 의 기술 블로그
+url: https://pparkddo.github.io
+baseurl: 
 
 author:
-  name:           pparkddo
+  name: pparkddo
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
+version: 2.1.0
 
 github:
-  repo:           https://github.com/pparkddo
+  repo: https://github.com/pparkddo
+
+# Seo Tag
+locale: ko_KR
 
 # Plugins
 plugins: 
