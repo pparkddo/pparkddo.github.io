@@ -6,14 +6,14 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Solved
+tagline:          Solve Problems
+description:      문제 해결 방법과 이유를 정리한 <a href="http://github.com/pparkddo" target="_blank">pparkddo</a> 의 기술 블로그
 url:              https://pparkddo.github.io
 baseurl:          
 
 author:
-  name:           'pparkddo'
+  name:           pparkddo
 
 paginate:         5
 
@@ -29,3 +29,4 @@ plugins:
   - jekyll-gist
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-feed
