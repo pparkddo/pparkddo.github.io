@@ -2,6 +2,10 @@
 markdown: kramdown 
 highlighter: rouge
 
+# kramdown
+kramdown:
+  parse_block_html: true
+
 # Permalinks
 permalink: pretty
 
@@ -18,7 +22,9 @@ author:
 paginate: 5
 
 # Custom vars
-version: 2.1.0
+version: 1.0
+image:
+  path: /public/images
 
 github:
   repo: https://github.com/pparkddo

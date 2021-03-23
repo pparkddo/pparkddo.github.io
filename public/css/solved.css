@@ -1,0 +1,8 @@
+p > img {
+    margin: auto;
+}
+
+p > img + em {
+    display: inherit;
+    text-align: center;
+}
