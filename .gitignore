@@ -43,6 +43,7 @@ node_modules
 
 # Jekyll
 _site/
+_drafts/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
