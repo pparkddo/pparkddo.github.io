@@ -3,19 +3,13 @@ layout: page
 title: About
 ---
 
-### About Me
 항상 학습하고 문제 해결을 즐기는 개발자입니다.
 
-#### Introduction
+### Introduction
 - 불편함을 느끼는 것에 대해 문제를 정의하고
 - 문제를 해결하기 위해 프로그램을 개발합니다.
 - 간단한 문제에는 생산성이 좋은 `Python` 을 사용하고
 - 웹 어플리케이션 구현에는 `Java` 를 이용합니다.
-
-#### Contact & Channel
-- E-mail : ehdud3453@gmail.com
-- Github : [https://github.com/pparkddo/](https://github.com/pparkddo/)
-- Blog : [https://pparkddo.github.io/](https://pparkddo.github.io/)
 
 <!-- ### Skills -->
 
@@ -74,3 +68,8 @@ title: About
 
 ### Certificate
 - 정보처리기사 (`18.5.25)
+
+### Contact & Channel
+- E-mail : ehdud3453@gmail.com
+- Github : [https://github.com/pparkddo/](https://github.com/pparkddo/)
+- Blog : [https://pparkddo.github.io/](https://pparkddo.github.io/)
