@@ -16,7 +16,7 @@ title: About
 ### Projects
 - 한국전력공사 Data Discovery 프로젝트  
   - `Python`, `Jupyter Notebook`, `Pandas`, `Dask`, `Matplotlib`
-  - 사내 데이터를 분석하여 고객 특성에 맞는 전력량계 데이터 처리 알고리즘 개발
+  - 고객 특성에 맞는 전력량계 누락 데이터 처리 알고리즘 개발
   - 기존 데이터 처리방법 대비 요금 오차금액 약 `40배` 이상 개선
   - TB 단위의 대용량의 데이터를 다루기 위해 `Dask` 라이브러리 사용
   - 스크립트로 Jupyter Notebook 을 실행시키는 [nbexecutor](https://github.com/pparkddo/nbexecutor) 모듈 개발
@@ -30,7 +30,7 @@ title: About
 
 ### Personal Experience & Projects
 - 증권사 API 서버 개발
-  - `Python`, `RabbitMQ`, `Qt`
+  - `Python`, `RabbitMQ`, `PyQt`
   - `Message Queue` 를 이용한 키움 OpenAPI 서버 프로그램
   - 순차적인 메시지 전달과 동시 요청 처리 제한 기능 구현
   - 서버를 구축함으로써 원격에서도 API 를 사용할 수 있도록 함
@@ -50,7 +50,7 @@ title: About
   - [https://github.com/pparkddo/nano-degree](https://github.com/pparkddo/nano-degree)
 - 뉴스 알리미 개발
   - 주기적으로 뉴스 기사를 `Web Scraping` 하여 특정 제목이 포함되면 메신저로 발송하는 모듈 개발
-  - Messenger, Scraper 및 ArticleContainer 를 커스터마이징 가능하도록 `Interface` 를 정의
+  - Messenger, ArticleScraper 및 ArticleContainer 를 커스터마이징 가능하도록 `Interface` 를 정의
   - [https://github.com/pparkddo/nscrap](https://github.com/pparkddo/nscrap)
 
 ### Awards
